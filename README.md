@@ -1,4 +1,5 @@
-# DAY2-Simple_form
+# MERN_STACK_WEB_DEVELOPEMENT
+# DAY2-Simple_Form
 # output images
 -----FORM PAGE-------------
 ![image](https://github.com/kalirishik/DAY2-Simple_form/assets/110583211/2cd802d5-8e95-411f-bbc2-123fdf5aac71)
